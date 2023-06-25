@@ -12,11 +12,5 @@ variable "parent_management_group_id" {
   description = "value of the parent management group id"
   type        = string
   sensitive   = false
-  default     = "null"
-}
-variable "subscription_ids" {
-  description = "value of the subscription ids"
-  type        = list(string)
-  sensitive   = false
-  default     = [null]
+  default     = null
 }
