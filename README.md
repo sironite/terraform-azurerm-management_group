@@ -38,13 +38,13 @@ No modules.
 | management\_group\_display\_name | value of the management group display name | `string` | yes |
 | management\_group\_name | value of the management group name | `string` | yes |
 | parent\_management\_group\_id | value of the parent management group id | `string` | no |
-| subscription\_ids | value of the subscription ids | `list(string)` | no |
 
 ## Outputs
 
 | Name | Description |
 |------|-------------|
 | management\_group\_display\_name | value of the management group display name |
+| management\_group\_id | value of the management group id |
 | management\_group\_name | value of the management group name |
 | parent\_management\_group\_id | value of the parent management group id |
 
