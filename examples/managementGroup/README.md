@@ -1,6 +1,6 @@
-# Terraform module | AzureRM - Invullen
+# Terraform module | AzureRM - Management Group
 
-This Terraform module is designed to create a Invullen for Azure.
+This Terraform module is designed to create a Management Group for Azure.
 
 ## Pre-requisites
 
